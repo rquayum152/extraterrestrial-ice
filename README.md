@@ -2,7 +2,7 @@
 
 This repository contains code and supporting data used to generate the results and figures presented in “Water ice for construction of extraterrestrial habitats.”
 
-The repository is organized according to the paper's result sections. To reproduce or better understand a particular analysis, navigate to the folder named after that section. Each folder contains the relevant Python files and any supporting data files required to reproduce the associated calculations and figures.
+The repository is organized according to the paper's results sections. To reproduce or better understand a particular analysis, navigate to the folder named after that section. Each folder contains the relevant Python files and any supporting data files required to reproduce the associated calculations and figures.
 
 The primary analyses included in this repository are:
 
